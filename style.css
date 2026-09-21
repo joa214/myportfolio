@@ -25,7 +25,7 @@ body {
 
 /* Header */
 header {
-  background: linear-gradient(90deg, #8a024d, #8a024d); /* Indigo gradient */
+  background: linear-gradient(90deg, rgb(29, 26, 71),rgb(29, 26, 71)); /* Indigo gradient */
   color: #fff;
   padding: 1rem 2rem;
   position: sticky;
@@ -82,7 +82,7 @@ section {
 section h2 {
   margin-bottom: 1rem;
   font-size: 2rem;
-  color:#8a024d;;
+  color: rgb(29, 26, 71);
   text-align: center;
 }
 
@@ -155,7 +155,7 @@ section h2 {
 .project-card h3 {
   margin: 1rem 0 0.5rem;
   font-size: 1.3rem;
-  color: #8a024d;
+  color: rgb(29, 26, 71);
 }
 .project-card p {
   color: #4b5563;
@@ -164,7 +164,7 @@ section h2 {
   display: inline-block;
   margin-top: 0.8rem;
   padding: 0.5rem 1rem;
-  background: #8a024d;
+  background: rgb(183, 180, 224);
   color: #ffffff;
   border-radius: 6px;
   text-decoration: none;
