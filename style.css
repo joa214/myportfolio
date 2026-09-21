@@ -17,7 +17,7 @@
 
 /* Body */
 body {
-  font-family: 'Inter', sans-serif;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   background-image: url('bg3.jpg');
   color: var(--text);
   line-height: 1.6;
