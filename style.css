@@ -104,9 +104,9 @@ section h2 {
 
 .about-photo {
   width: 200px;             /* Adjust size */
-  max-width: 100%;
-  height: auto;
-  margin-bottom: 10px;      /* Space below image */
+  border-radius:50%;
+  height: 200px;
+  objective-fit: cover;      /* Space below image */
   box-shadow: 0 4px 8px #00A6AD;
   
 
