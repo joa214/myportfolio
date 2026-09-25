@@ -18,14 +18,14 @@
 /* Body */
 body {
   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  background-image: url('bg3.jpg');
+  background-image: url('1567665.png');
   color: var(--text);
   line-height: 1.6;
 }
 
 /* Header */
 header {
-  background: linear-gradient(90deg, rgb(29, 26, 71),rgb(29, 26, 71)); /* Indigo gradient */
+  background: linear-gradient(90deg, #00A6AD,#00A6AD);
   color: #fff;
   padding: 1rem 2rem;
   position: sticky;
@@ -83,7 +83,7 @@ section {
 section h2 {
   margin-bottom: 1rem;
   font-size: 2rem;
-  color: rgb(29, 26, 71);
+  color: #00A6AD;
   text-align: center;
 }
 
@@ -107,7 +107,7 @@ section h2 {
   max-width: 100%;
   height: auto;
   margin-bottom: 10px;      /* Space below image */
-  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+  box-shadow: 0 4px 8px #00A6AD;
   
 
 }
@@ -157,7 +157,7 @@ section h2 {
 .project-card h3 {
   margin: 1rem 0 0.5rem;
   font-size: 1.3rem;
-  color: rgb(29, 26, 71);
+  color: #00A6AD;
 }
 .project-card p {
   color: #4b5563;
@@ -214,7 +214,6 @@ section h2 {
 footer {
   text-align: center;
   padding: 1rem;
-  background-image: url('bg3.jpg');
   color: #fff;
   margin-top: 2rem;
 }
